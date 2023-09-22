@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "default": "tknomisa"
+  },
+  "targets": {
+    "tknomisa": {
+      "hosting": {
+        "adinofex": [
+          "adinofex"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
+
